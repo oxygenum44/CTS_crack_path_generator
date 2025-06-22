@@ -32,4 +32,7 @@ If you use it for scientific purposes please cite:
 - Python 3.8 or newer
 - installing all required dependecies
 
-### Setup
+### USage
+
+- Download all the files
+- Run app.py
