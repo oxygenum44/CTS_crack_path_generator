@@ -8,7 +8,7 @@ It leverages machine learning models (DNN, XGBoost, TabNet) trained on simulatio
 You can freely use the software under CC BY-NC 4.0 rules
 If you use it for scientific purposes please cite:
 
-[PLACEHOLDER FOR DOI AND BIBLIOGRAPHIC DATA OF THE PAPER]
+https://doi.org/10.1016/j.ijfatigue.2025.109337
 
 ## Features
 
